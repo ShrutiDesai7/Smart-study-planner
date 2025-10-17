@@ -10,10 +10,15 @@ This project simulates the decision-making process of an AI system — balancing
 🚀 Features
 
 ✅ Takes input for subjects, difficulty, and time available
+
 ✅ Calculates priority score using a weighted logic model
+
 ✅ Generates a personalized study plan
+
 ✅ Suggests ideal study durations per subject
+
 ✅ Lightweight — no datasets or external dependencies
+
 ✅ Beginner-friendly and easy to expand
 
 ⚙️ Tech Stack
